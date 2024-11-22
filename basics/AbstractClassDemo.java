@@ -24,3 +24,4 @@ class XYZ extends AbstractClassDemo
     }
 }
 
+
